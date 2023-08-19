@@ -1,0 +1,4 @@
+[07-Aug-2021 17:43:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/x29mer8ey3wa/public_html/dashboard/status/edit-betting-status.php on line 6
+[07-Aug-2021 17:43:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/x29mer8ey3wa/public_html/dashboard/status/edit-betting-status.php on line 8
+[07-Aug-2021 17:43:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/x29mer8ey3wa/public_html/dashboard/status/edit-betting-status.php on line 6
+[07-Aug-2021 17:43:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/x29mer8ey3wa/public_html/dashboard/status/edit-betting-status.php on line 8
